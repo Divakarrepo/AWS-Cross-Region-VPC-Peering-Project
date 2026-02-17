@@ -1,3 +1,5 @@
+![Alt text](screenshots/architecture-diagram.png)
+
 # AWS-Cross-Region-VPC-Peering-Project
 
 🌐 AWS Cross-Region VPC Peering Project (Virginia ↔ Ohio)
